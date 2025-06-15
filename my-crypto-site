@@ -1,0 +1,11 @@
+my-crypto-site/
+├── app.py
+├── requirements.txt
+├── Procfile
+└── templates/
+    ├── register.html
+    ├── login.html
+    ├── dashboard.html
+    ├── chat.html
+    ├── exchange.html
+    └── payment.html
